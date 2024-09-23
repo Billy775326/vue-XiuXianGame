@@ -1037,7 +1037,7 @@
             },
             // 重置
             reset () {
-                this.storyText = '属性出错, 请添加QQ群:920930589, 上传"存档"并联系作者解决';
+                this.storyText = '属性出错, 请添加QQ群:779192449, 上传"存档"并联系作者解决';
                 this.$confirm('你是否要导出存档?', '存档导出提示', {
                     center: true,
                     confirmButtonText: '确定'
@@ -1846,7 +1846,7 @@
                 return `${num3.toFixed(2)}%`
             },
             copyContent (type) {
-                const content = type == 'qq' ? '920930589' : 'https://github.com/setube/vue-XiuXianGame';
+                const content = type == 'qq' ? '779192449' : 'git@github.com:Billy775326/vue-XiuXianGame.git';
                 this.$prompt('', type == 'qq' ? '官方群聊' : '开源地址', {
                     inputValue: content,
                     showCancelButton: false,

@@ -107,6 +107,12 @@ export default defineConfig({
             '@': path.resolve(__dirname, 'src')
         }
     },
-    logLevel: 'error'
+    logLevel: 'error',
+    server: {
+        host: '0.0.0.0',
+        port: 5173,
+        open: true,
+        https: false
+    }
 });
 
