@@ -23,8 +23,8 @@ Docker贡献者：
 
 ## 项目安装
 
-- [安装](https://github.com/setube/vue-XiuXianGame/wiki/install)
-- [Docker安装](https://github.com/setube/vue-XiuXianGame/wiki/docker_install)
+- [安装](https://github.com/Billy775326/vue-XiuXianGame/wiki/install)
+- [Docker安装](https://github.com/Billy775326/vue-XiuXianGame/wiki/docker_install)
 
 ## 免责声明
 
